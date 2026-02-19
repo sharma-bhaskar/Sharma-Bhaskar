@@ -1,7 +1,7 @@
 👋 Hi, I’m Bhaskar Sharma
-👀 I’m interested in Scala, Akka and ligthbend technologies with Big Data
-🌱 I’m currently learning Cats, Scalaz, Rust and functional Programming 
-
+👀 Scala backend engineer focused on concurrency, distributed systems, and performance.
+Akka, Kafka, MongoDB, event-driven architecture.
+Deepening expertise in Cats, functional programming, and systems-level thinking with Rust.
 
 <!---
 Sharma-Bhaskar/Sharma-Bhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
