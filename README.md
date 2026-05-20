@@ -8,7 +8,7 @@ I've spent 10 years designing and operating systems that don't fall over — dis
 
 ## Tech I work in
 
-**Core** — Scala 3 · Akka / Pekko · Cats · ZIO · Kafka · Spark  
+**Core** — Scala 2 and 3 · Akka / Pekko · Cats · ZIO · Kafka · Spark  
 **Storage** — MongoDB · PostgreSQL · Redis  
 **Infra** — Kubernetes · Docker · AWS · event-driven microservices  
 **Exploring** — Rust · AI agent security · behavioural signal processing
